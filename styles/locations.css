@@ -1,0 +1,12 @@
+.locations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: seagreen;
+}
+
+
+.location__image {
+    max-height: 10rem;
+
+}

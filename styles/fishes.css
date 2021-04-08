@@ -1,0 +1,15 @@
+.fishes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: seagreen;
+    
+}
+
+.fish {
+    flex-basis: 50%;
+}
+
+.fish__image {
+    max-height: 10rem;
+}

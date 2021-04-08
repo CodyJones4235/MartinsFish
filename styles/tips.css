@@ -1,0 +1,11 @@
+.tips {
+    flex: 1;
+    background-image: url("https://www.scaryforkids.com/pics/squidward.jpg");
+    margin-left: 5rem;
+    padding: 0 2rem;
+    color: crimson;
+}
+
+.header--tips {
+    text-align: center;
+}

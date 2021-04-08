@@ -1,3 +1,37 @@
-.body__header{
-    justify-content: center;
+@import "./fishes.css";
+@import "./tips.css";
+@import "./locations.css";
+@import "./quotes.css";
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-image: url("https://static.wikia.nocookie.net/spongebob/images/2/26/Bubbletown_002.png/revision/latest?cb=20181028171458");
+    font-size: 2rem;
+    color: white;
+}
+
+img{
+    border-width: thick;
+    border-color: crimson;
+}
+
+.bodyHeader {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    padding: 3rem;
+}
+
+.bordered {
+    
+}
+
+.bottom-space {
+    margin-bottom: 3rem;
+}
+
+.flex-container-left {
+    flex: 3;
 }
